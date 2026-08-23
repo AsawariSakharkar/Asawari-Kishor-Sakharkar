@@ -1,0 +1,6 @@
+{
+  "name": "Overthink",
+  "description": "A private quality-of-life tool that helps users pause overthinking through guided exercises and mindful tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
